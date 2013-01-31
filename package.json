@@ -1,0 +1,30 @@
+{
+    "name": "monitor-url-tool",
+    "version": "0.0.1",
+    "description": "simple url monitoring tool",
+    "main": "./monitor-tool.js",
+    "bin": {
+        "monitor-url-tool": "./monitor-tool.js",
+        "monurl": "./monitor-tool.js"
+    },
+    "keywords": ["url", "monitor"],
+    "author": {
+        "name": "Yaniv Kessler"
+    },
+    "repository": {
+        "type": "git",
+        "url": "http://github.com/yanush/monitor-url-tool.git"
+    },
+    "bugs": {
+        "url": "http://github.com/yanush/monitor-url-tool/issues"
+    },
+    "licenses": [
+        {
+        "type": "MIT",
+        "url": "https://raw.github.com/yanush/monitor-url-tool/master/LICENSE"
+        }
+    ],
+    "engine": {
+        "node": ">=0.8"
+    }
+}

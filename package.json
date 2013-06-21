@@ -1,6 +1,6 @@
 {
     "name": "monitor-url-tool",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "simple url monitoring tool",
     "main": "./monitor-tool.js",
     "bin": {

@@ -25,7 +25,7 @@ while servers.conf will look like this:
 	#comments can be embedded in the file, but only in their own line
 	facebook, http://www.facebook.com
 ```
-the tool also provides a cli which allows adding servers after its been started:
+the tool also provides a cli which allows adding servers in runtime:
 ```
 	monitor> addServer('beer', 'http://beer.com')
 ```

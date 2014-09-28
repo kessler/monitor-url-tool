@@ -1,5 +1,6 @@
-Monitor url tool
-================
+# this tool is DEPRECATED (!)
+
+### Monitor url tool
 
 Simple too to monitor one or more urls. The tool will beep in error events.
 
